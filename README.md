@@ -1,0 +1,1 @@
+This project creates a landing page. Completing this project will demonstrate a solid understanding of HTML and CSS.
