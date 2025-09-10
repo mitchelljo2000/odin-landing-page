@@ -106,3 +106,26 @@ button {
     font-weight: 900;
     text-align: right;
 }
+
+.section-4 {
+    padding: 100px 300px;
+}
+
+.section-4-content {
+    background-color: #3882F6;
+    padding: 50px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action-header {
+    color: white;
+    font-size: 26px;
+    font-weight: 900;
+}
+
+.section-4 button {
+    border: 1px solid #F9FAF8;
+    align-self: center;
+}
