@@ -22,17 +22,6 @@ ul {
     gap: 20px;
 }
 
-.header .text {
-    font-size: 24px;
-    color: #F9FAF8;
-    font-weight: 900;
-}
-
-.header ul {
-    font-size: 18px;
-    color: #E5E7EB;
-}
-
 .section-1 {
     background-color: #1F2937;
     display: flex;
@@ -54,6 +43,7 @@ ul {
 .hero-logo-text {
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: 900;
 }
 
 button {
