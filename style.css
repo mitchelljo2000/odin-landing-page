@@ -87,3 +87,22 @@ button {
     width: 150px;
     text-align: center;
 }
+
+.section-3 {
+    background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+    padding-left: 325px;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.section-3-sign {
+    font-weight: 900;
+    text-align: right;
+}
